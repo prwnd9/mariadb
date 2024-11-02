@@ -1,0 +1,6 @@
+# https://artifacthub.io/packages/helm/bitnami/mariadb
+# https://artifacthub.io/packages/helm/bitnami/mariadb?modal=values
+# https://github.com/bitnami/charts/blob/main/bitnami/mariadb/values.yaml
+primary:
+  persistence:
+    size: 1Gi
